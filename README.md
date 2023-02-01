@@ -7,5 +7,6 @@ The algorithm contracts edges until there are only target_num_vertices nodes lef
 
 This code snippet is also one of my first times using the networkx library. 
 
-To run the code: python3 Eff_Resistance.py. 
+To run the code: 
+'''python3 Eff_Resistance.py'''
 A plot should show up in several seconds. 
